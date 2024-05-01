@@ -31,7 +31,7 @@ public class Main {
             if (year % 400 == 0) {
                 System.out.println("Високосный");
             } else {
-                System.out.println("Не является високосным");
+                System.out.println("Не является високосным годом");
             }
         }
 
